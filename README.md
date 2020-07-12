@@ -16,5 +16,5 @@ Genera imagenes random con el poder de **HTML** y **CSS** para crear diseños ba
 > **Screenshot** controlada con el poderoso **Python 3** y la herramienta **Selenium**
 
 <p align="center">
-  <img src="python-icon.svg" alt="historygram"/>
+  <img src="python-icon.svg" alt="historygram" width="224px" height="224px"/>
 </p>
