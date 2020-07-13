@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+.position-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+}
+
+#selector {
+  background-image: url(1.jpg);
+  background-size: cover;
+  width: 421.21px;
+  height: 631px;
+}
+#description-picture {
+  display: table; /* keep the background color wrapped tight */
+  margin: 0px auto 0px auto; /* keep the table centered */
+  padding:5px;font-size:20px;
+  font-family: sans-serif;
+  margin-left: 200px;
+  margin-top: 540px;
+}
+
+/* -20, 20 -50, 0 deg*/
+
+/* 170px, 0px, 100px, 200px margin-left */
+
+
+/* margin-top 240px, 0px, 440px, 540px */
